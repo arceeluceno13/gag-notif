@@ -149,7 +149,7 @@ const Tab1: React.FC<Tab1Props> = ({ onOpenSettings }) => {
                   <div style={{ margin: "16px 0" }}>
                     <strong>GCash:</strong>
                     <div style={{ marginTop: 4, fontSize: "1.1em" }}>
-                      09154931229
+                      09150262644
                     </div>
                   </div>
                 </div>
