@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">gag-notif</string>
-    <string name="title_activity_main">gag-notif</string>
-    <string name="package_name">gag.notif</string>
-    <string name="custom_url_scheme">gag.notif</string>
+    <string name="app_name">GAG RealTime Stock</string>
+    <string name="title_activity_main">GAG RealTime Stock</string>
+    <string name="package_name">GAG RealTime Stock</string>
+    <string name="custom_url_scheme">GAG RealTime Stock</string>
 </resources>
