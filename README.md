@@ -33,7 +33,7 @@ It features a responsive UI, dark/light mode support, and real-time updates for 
 ### Installation
 
 ```sh
-git clone https://github.com/yourusername/gag-notif.git
+git clone https://github.com/arceeluceno13/gag-notif.git
 cd gag-notif
 npm install
 ```
